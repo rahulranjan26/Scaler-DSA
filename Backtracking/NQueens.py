@@ -79,3 +79,4 @@ def solve(row, cols, leftDiag, rightDiag, ssf):
 
 
 NqueensBranchAndBound(4)
+
